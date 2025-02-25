@@ -35,25 +35,25 @@ We compared our hybrid recommendation system with two non-hybrid models (A and B
 
 ## System Screenshots
 ### **Login Page**
-![Login Page](screenshots/login.png)
+![Login Page](login.png)
 
 ### **Sign-Up Page**
-![Sign-Up Page](screenshots/signup.png)
+![Sign-Up Page](signup.png)
 
 ### **Main Page - Game Selection**
-![Game Selection](screenshots/main.png)
+![Game Selection](main.png)
 
 ### **Game Recommendations**
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](recommendations.png)
 
 ### **Feedback Mechanism**
 - **Like Button**
-  ![Like](screenshots/like.png)
+  ![Like](like.png)
 - **Dislike Button (New Recommendations)**
-  ![Dislike](screenshots/dislike.png)
+  ![Dislike](dislike.png)
 
 ### **About Page**
-![About Page](screenshots/about.png)
+![About Page](about.png)
 
 ## Future Improvements
 - **Collaborative Filtering**: Incorporate user ratings to enhance recommendation accuracy.
