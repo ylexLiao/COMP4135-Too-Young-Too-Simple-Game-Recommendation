@@ -62,7 +62,7 @@ We compared our hybrid recommendation system with two non-hybrid models (A and B
 - **Expanded Data Sources**: Integrate real-time game data for more dynamic recommendations.
 
 ## Team Members
-- **Liao Yijie** - System design, front-end development, back-end implementation.
+- **Liao Yijie** - System design, front-end development, back-end implementation, algorithm development.
 - **Shao Zixuan** - Data processing, algorithm development, evaluation.
 
 For inquiries, contact us at:
